@@ -10,6 +10,8 @@ from nltk.stem import PorterStemmer
 
 st.set_page_config(page_title='EmoInSync', page_icon = "assets/icon.png")
 
+nltk.download('stopwords')
+
 st.markdown(
     """
     <style>
