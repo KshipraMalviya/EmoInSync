@@ -16,7 +16,7 @@ st.markdown(
     """
     <style>
     [data-testid="stAppViewContainer"] {
-        background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
     }
     [data-testid="stHeader"] {
         background-color: white;
