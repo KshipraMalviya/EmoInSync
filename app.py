@@ -25,6 +25,9 @@ st.markdown(
         background-color: white;
         color: black;
     }
+    h1{
+        color: black;
+    }
     </style>
     """,
     unsafe_allow_html=True
